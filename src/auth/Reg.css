@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 15px 0 15px 0;
+    background: #314E98;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.title {
+    font-family: Montserrat;
+    font-size: 25px;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 29px;
+}
+
+input {
+    margin: 10px;
+    width: 300px;
+    height: 35px;
+    flex-shrink: 0;
+    border: 1px solid #314E98;
+    background: #FFF;
+
+}
+
+.btn_auth {
+
+    border: 1px solid #314E98;
+    display: flex;
+    margin-bottom: 3px;
+    padding: 9px 15px;
+    justify-content: center;
+    align-items: center;
+    background: #314E98;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+
+
+}

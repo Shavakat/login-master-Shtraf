@@ -1,0 +1,26 @@
+.btn_nav {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+.txt {
+    color: #FFF;
+    font-size: 18px;
+}
+
+.btn_main {
+    width: 150px;
+    height: 40px;
+    padding: 9px 17px;
+    background: #314E98;
+    border: #314E98;
+}
+
+.form_ {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-direction: column;
+}
